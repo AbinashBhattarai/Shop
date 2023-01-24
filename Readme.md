@@ -1,0 +1,1 @@
+A simple static UI for e-commerce project created using HTML and CSS.
